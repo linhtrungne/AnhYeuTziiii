@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ 😆',
     reply: 'Iu thì iu mà không iu thì cũng phải iu ><',
     mess: 'Tớ biết mà 🥰. Iu cậu nhiều nhiều 👉👈',
-    messDesc: 'Hôm nay 7h tớ qua đón cậu nhé công chúa.',
+    messDesc: 'Mai 9g tớ qua đón cậu đi cháy phố nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/Trung.Linh.Nguyenn'
 }
