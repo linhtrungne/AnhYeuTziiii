@@ -10,9 +10,9 @@ const CONFIG = {
     btnNo: 'Anh đang mơ đấy à :3',
     question:'Trên thế giới có gần 8 tỉ người mà sao em lại iu anhhh ❤',
     btnReply: 'Gửi cho tớ 😆',
-    reply: 'Iu thì iu mà không iu thì cũng phải iu ><',
+    reply: 'Em cũng iu anh siu nhìu nhìu lunnn ><',
     mess: 'Anh biết mò 🥰. Iu em nhìu lắm lám lun 👉👈',
-    messDesc: 'Mai 9g tớ qua đón cậu đi cháy phố nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Mai 9g anh qua đón em đi cháy phố nhé công chúa.',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'https://m.me/Trung.Linh.Nguyenn'
 }
