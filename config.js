@@ -13,6 +13,6 @@ const CONFIG = {
     reply: 'Iu thì iu mà không iu thì cũng phải iu ><',
     mess: 'Anh biết mò 🥰. Iu em nhìu lắm lám lun 👉👈',
     messDesc: 'Mai 9g tớ qua đón cậu đi cháy phố nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunnnn <3',
     messLink: 'https://m.me/Trung.Linh.Nguyenn'
 }
