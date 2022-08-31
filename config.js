@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     mà sao em cứ đi nhầm đường rồi lại
     lạc vào tim anh thế kia`,
-    btnIntro: 'ấn zô đây để zô tim anh',
+    btnIntro: 'Ấn zô đây để zô tim anh',
     title: 'Hình như anh đã iu em ngay từ đầu nhìn thấy em ><',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy 😆',
     btnYes: 'Em cứ iu anh đấy ❤',
