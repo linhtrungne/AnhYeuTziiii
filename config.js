@@ -8,11 +8,11 @@ const CONFIG = {
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy 😆',
     btnYes: 'Em cứ iu anh đấy ❤',
     btnNo: 'Anh đang mơ đấy à :3',
-    question:'Trên thế giới có gần 8 tỉ người mà sao em lại iu anhhh ❤',
+    question:'Anh iu em nhìu lắm lắm lun Tường Zi à ❤',
     btnReply: 'Gửi cho anh ne 😆',
     reply: 'Em cũng iu anh siu nhìu nhìu lun ><',
-    mess: 'Anh biết mò 🥰. Iu em nhìu lắm lắm lun 👉👈',
+    mess: 'Anh biết mò 🥰. Anh iu em 🫶',
     messDesc: 'Tối 7g anh qua đón em đi chơi nhé công chúa.',
     btnAccept: 'Okiii lun <3',
-    messLink: 'https://m.me/Trung.Linh.Nguyenn'
+    messLink: 'https://m.me/LinhTrungDangYeuTuongVi'
 }
