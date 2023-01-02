@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Tường Zi à!',
+    introTitle: 'Thanh Phương àaa!',
     introDesc: `Trái đất vốn lạ thường
     mà sao em cứ đi nhầm đường rồi lại
     lạc vào tim anh thế kia`,
@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh ne 😆',
     reply: 'Em cũng iu anh siu nhìu nhìu lun ><',
     mess: 'Anh biết mò 🥰. Anh iu em 🫶',
-    messDesc: 'Tối 7g anh qua đón em đi chơi nhé công chúa.',
+    messDesc: 'Tối mai 7g anh qua đón em đi chơi nhé công chúa.',
     btnAccept: 'Okiii lun <3',
-    messLink: 'https://m.me/LinhTrungDangYeuTuongVi'
+    messLink: 'https://m.me/TrungLinhNguyennn'
 }
