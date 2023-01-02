@@ -8,7 +8,7 @@ const CONFIG = {
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy 😆',
     btnYes: 'Em cứ iu anh đấy ❤',
     btnNo: 'Anh đang mơ đấy à :3',
-    question:'Anh iu em nhìu lắm lắm lun Tường Zi à ❤',
+    question:'Hình như anh lỡ yêu em nhìu lắm rui Thanh Phương àaaa ❤',
     btnReply: 'Gửi cho anh ne 😆',
     reply: 'Em cũng iu anh siu nhìu nhìu lun ><',
     mess: 'Anh biết mò 🥰. Anh iu em 🫶',
