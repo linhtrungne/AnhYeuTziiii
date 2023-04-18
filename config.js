@@ -11,8 +11,8 @@ const CONFIG = {
     question:'Hình như anh lỡ yêu em nhìu lắm rui Tzi àaaa ❤',
     btnReply: 'Gửi cho anh ne 😆',
     reply: 'Em cũng iu anh siu nhìu nhìu lun ><',
-    mess: 'Anh biết mò 🥰. Anh iu em 🫶',
-    messDesc: 'Tối mai 7g anh qua đón em đi chơi nhé công chúa.',
+    mess: 'Anh biết mò 🥰. Anh iu bé Tzi 🫶',
+    messDesc: 'Tối mai 7g anh qua đón em đi chơi nhé công chúa Tzi.',
     btnAccept: 'Okiii lun <3',
     messLink: 'https://m.me/TrungLinhNguyenn'
 }
